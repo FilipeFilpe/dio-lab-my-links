@@ -22,3 +22,7 @@ classDiagram
 
     Link --> Category : belongsTo
 ```
+
+## Links
+
+https://github.com/digitalinnovationone/santander-dev-week-2023-api/blob/main/README.md
